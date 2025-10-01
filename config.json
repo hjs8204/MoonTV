@@ -72,6 +72,16 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
+     "72_smy": {
+            "name": "TV-神马云",
+            "api": "https://api.1080zyku.com/inc/apijson.php",
+            "detail": "https://api.1080zyku.com"
+    },
+    "49_xmmzy": {
+            "name": "TV-小猫咪资源",
+            "api": "https://zy.xmm.hk/api.php/provide/vod",
+            "detail": "https://zy.xmm.hk"
+    },
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源"
@@ -81,4 +91,5 @@
       "name": "百度资源"
     }
   }
+
 }
