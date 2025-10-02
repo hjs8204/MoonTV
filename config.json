@@ -86,6 +86,34 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源"
     },
+    "heime":{
+      "api":"https://json.heimuer.xyz/api.php/provide/vod",
+       "name": "黑木耳"
+    }，
+     "ukzy":{
+        "api": "https://api.ukuapi.com/api.php/provide/vod",
+        "name": "U酷资源"
+    },
+    "hnzy":{
+        "name": "红牛资源",
+        "api": "https://www.hongniuzy2.com/api.php/provide/vod"
+    },
+    "gszy":{
+        "name": "光速资源",
+        "api": "https://api.guangsuapi.com/api.php/provide/vod"
+    },
+    "sony":{
+       "name": "索尼资源",
+       "api": "https://suoniapi.com/api.php/provide/vod"
+    },
+    "ddys":{
+        "name": "低端影视",
+        "api": "cms://ddys"
+    },
+    "hyzy":{
+       "name": "虎牙资源",
+        "api": "https://www.huyaapi.com/api.php/provide/vod"
+    }
     "bdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度资源"
@@ -93,3 +121,4 @@
   }
 
 }
+
