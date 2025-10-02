@@ -116,6 +116,12 @@
         "name": "低端影视",
         "api": "cms://ddys"
     },
+    "agedongman":{
+      "name": "AGE动漫", 
+            "type": 3, 
+            "api": "csp_age",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/age.js"
+    },
     "hyzy":{
        "name": "虎牙资源",
         "api": "https://www.huyaapi.com/api.php/provide/vod"
@@ -127,6 +133,7 @@
   }
 
 }
+
 
 
 
