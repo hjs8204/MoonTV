@@ -89,8 +89,8 @@
     "heime":{
       "api":"https://json.heimuer.xyz/api.php/provide/vod",
        "name": "黑木耳"
-    }，
-     "ukzy":{
+    },    
+    "ukzy":{
         "api": "https://api.ukuapi.com/api.php/provide/vod",
         "name": "U酷资源"
     },
@@ -121,4 +121,5 @@
   }
 
 }
+
 
